@@ -5,7 +5,7 @@
 
 Command line:
 
-* `make` to build. An executable called `project1` will be produced.
+* `make` to build. An executable called `hellothread` will be produced.
 * `make clean` to clean up all build products except the executable.
 <!-- * `make pristine` to clean up all build products entirely. -->
 
@@ -17,7 +17,7 @@ VS Code:
 
 _[List files here, even if you only have one. Headers are optional.]_
 
-* `project1.c`: The main code to launch the program
+* `hellothread.c`: The main code to launch the program
 * `Makefile`: To compile the program to executable
 
 ## Data
@@ -37,4 +37,4 @@ _[This is a tree of functions and their short descriptions]_
 
 ## Notes
 
-* This project does not use any mutexes for locks.# project1_brickner
+* This project does not use any mutexes for locks.# hellothread_brickner
