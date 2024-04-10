@@ -1,5 +1,5 @@
-project1: project1.c
-	gcc -Wall -Wextra -o project1 project1.c
+project1: hellothread.c
+	gcc -Wall -Wextra -o hellothread hellothread.c
 
 clean:
-	rm -f project1
+	rm -f hellothread
